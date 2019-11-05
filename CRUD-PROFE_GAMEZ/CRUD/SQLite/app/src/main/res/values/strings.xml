@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="action_limpiar">Limpiar</string>
+    <string name="action_ListaArticulos">Consulta Spinner</string>
+    <string name="action_ListaArticulos1">Consultar Articulos</string>
+    <string name="acercade">Acerca de</string>
+</resources>
